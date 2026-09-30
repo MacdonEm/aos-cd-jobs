@@ -28,6 +28,7 @@ ocp5Versions = [
 ]
 
 nonOCPGroups = [
+    "acm-2.11",
     "acm-2.15",
     "acm-2.16",
     "acm-2.17",
