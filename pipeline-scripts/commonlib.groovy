@@ -32,6 +32,7 @@ nonOCPGroups = [
 
 // Additional LP groups from cluster scan schedules.
 LPClusterGroups = [
+    "acm-2.13",
     "acm-2.14",
     "acm-2.15",
     "acm-2.16",
